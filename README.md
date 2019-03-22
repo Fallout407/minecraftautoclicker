@@ -7,3 +7,6 @@ If you don't know how to make a basic autoclicker in C++, feel free to learn fro
 ## Changing keybinds
 If you want to change the keybinds in the code, just change the if statement's keycode (e.g. A is 0x41).
 If you do want to change it, [here](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes) is a link to docs for keycodes.
+
+## Uh...
+This is a trash piece of code. There are free decent autoclickers that aren't this garbage. This one doesn't even have CPS randomization.
